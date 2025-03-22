@@ -50,8 +50,12 @@ El error "NameError: name 'openpyxl' is not defined" se solucionó asegurándose
 
 5. Ejecución del Código
 
-Se abrió en la terminal.
-Se navegó hasta el directorio donde se encontraba el archivo main.py.
-Se ejecutó el comando python main.py.
+* Clonar el repositorio en la terminal con https://github.com/sheylaarodelo/Evaluaci-n-desempe-o.git
+* Luego debes poner cd al lado del archivo cd clasificacion_notas
+* Poner Code . para que se nos abra en Visual.
+* Luego en la terminal de Visual crear el entorno: python -m venv venv
+* Después activarlo: venv\Scripts\activate.
+* Por último ejecuta el proyecto con: python main.py
+
 Se siguieron las instrucciones en la terminal para ingresar los nombres y notas de los estudiantes.
 Se generó el archivo ejercicio3.xlsx con los resultados.
